@@ -12,7 +12,7 @@ This Power BI dashboard provides clear insights into Netflix’s 2023 catalog, i
 - **Page 3 — Geography Insights**: Analyze content distribution across countries, top 10 countries, and genre trends.
 
 <p align="center">
-  <img src="assets/dashboard_overview.png" width="800">
+  <img src="https://github.com/GunelXelilli/Netflix-Analytics-Dashboard/blob/main/Netflix1page.png" width="800">
 </p>
 
 ---
