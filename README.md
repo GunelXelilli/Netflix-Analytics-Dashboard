@@ -11,10 +11,6 @@ This Power BI dashboard provides clear insights into Netflix’s 2023 catalog, i
 - **Page 2 — Duration Analysis**: Explore runtimes of movies and TV shows over time.  
 - **Page 3 — Geography Insights**: Analyze content distribution across countries, top 10 countries, and genre trends.
 
-<p align="center">
-  <img src="https://github.com/GunelXelilli/Netflix-Analytics-Dashboard/blob/main/Netflix1page.png" width="800">
-</p>
-
 ---
 
 ## 🔸 Page 1 — Movies
@@ -22,7 +18,7 @@ This Power BI dashboard provides clear insights into Netflix’s 2023 catalog, i
 Page 1 focuses on Netflix movies, showing counts, ratings, and trends.
 
 <p align="center">
-  <img src="assets/page_1.png" width="800">
+  <img src="https://github.com/GunelXelilli/Netflix-Analytics-Dashboard/blob/main/Netflix1page.png" width="800">
 </p>
 
 
@@ -33,7 +29,7 @@ Page 1 focuses on Netflix movies, showing counts, ratings, and trends.
 Page 2 visualizes runtime patterns for movies and TV shows.
 
 <p align="center">
-  <img src="assets/page_2.png" width="800">
+  <img src="https://github.com/GunelXelilli/Netflix-Analytics-Dashboard/blob/main/Netflixpage2.png" width="800">
 </p>
 
 
