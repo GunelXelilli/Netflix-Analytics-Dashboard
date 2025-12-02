@@ -40,7 +40,7 @@ Page 2 visualizes runtime patterns for movies and TV shows.
 Page 3 explores Netflix content across countries and genres.
 
 <p align="center">
-  <img src="assets/page_3.png" width="800">
+  <img src="https://github.com/GunelXelilli/Netflix-Analytics-Dashboard/blob/main/Ntflix3page.png" width="800">
 </p>
 
 
