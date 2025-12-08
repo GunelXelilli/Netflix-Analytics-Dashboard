@@ -75,7 +75,7 @@ Page 3 explores Netflix content across countries and genres.
 
 ## 🛠️ How to Explore
 
-1. View screenshots in the `assets/` folder.  
+1. View screenshots in the `README.md` folder.  
 2. Use Netflix sample data in `data/` to recreate or test the dashboard.  
 3. Open Power BI Desktop to explore the dashboard interactively.
 
