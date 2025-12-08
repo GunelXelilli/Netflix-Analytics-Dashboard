@@ -3,6 +3,38 @@
 Welcome to the **Netflix Analytics Dashboard**!  
 This Power BI dashboard provides clear insights into Netflix’s 2023 catalog, including movie trends, durations, and global content distribution.
 
+
+
+
+
+
+---
+
+## 📂 Folder Structure
+
+Netflix-Analytics/
+├── assets/ # Screenshots of dashboard pages and overview
+├── data/ # Netflix sample dataset shared
+├── documentation/ # Detailed insights and analysis notes
+├── README.md # This file
+└── LICENSE # MIT license
+
+
+
+
+---
+
+## 🛠️ How to Explore
+
+1. View screenshots in the `assets/` folder.  
+2. Use Netflix sample data in `data/` to recreate or test the dashboard.  
+3. Open Power BI Desktop to explore the dashboard interactively.
+
+---
+
+
+
+
 ---
 
 ## 🌟 Pages Overview
@@ -45,29 +77,7 @@ Page 3 explores Netflix content across countries and genres.
 
 
 
----
 
-## 📂 Folder Structure
-
-Netflix-Analytics/
-├── assets/ # Screenshots of dashboard pages and overview
-├── data/ # Netflix sample dataset shared
-├── documentation/ # Detailed insights and analysis notes
-├── README.md # This file
-└── LICENSE # MIT license
-
-
-
-
----
-
-## 🛠️ How to Explore
-
-1. View screenshots in the `assets/` folder.  
-2. Use Netflix sample data in `data/` to recreate or test the dashboard.  
-3. Open Power BI Desktop to explore the dashboard interactively.
-
----
 
  
 
