@@ -1,10 +1,16 @@
-## Page 1 — Movies 🎬
+## 🎬 Page 1 — Movies
 
-![Movies Page]()  
-*This page provides insights into Netflix movies, including top titles, ratings, and trends over the years.*
+![Movies Page](https://github.com/GunelXelilli/Netflix-Analytics-Dashboard/blob/main/Netflix1page.png)  
 
-### Key Insights:
-- Most popular movies by rating and views.  
-- Genre trends over time.  
-- Comparison of movies across different years.  
+*This page shows insights about Netflix movies: top titles, ratings, and trends over the years.*
+
+### 🌟 Key Insights:
+- 🔹 **Most popular movies** based on ratings and views  
+- 🔹 **Genre trends** over the years  
+- 🔹 **Yearly comparisons** of movie releases  
+
+### 📌 Highlights:
+- ✅ Clear visualization of top genres  
+- ✅ Easy comparison of movies by year and rating  
+- ✅ Interactive dashboard elements
 
