@@ -1,25 +1,19 @@
-🔹 Page 1 — Movies Overview
+## 🔹 Page 1 — Movies Overview
 
-🎬 Top Insights
+🎬 **Top Insights**  
+- **Total Movies:** X  
+- **Most Popular Genre:** Y  
+- **Highest Rated Movie:** Z  
 
-Total Movies: X
+📊 **Key Visuals**  
+- **Bar charts** showing movies by genre  
+- **Line charts** tracking movie ratings over time  
+- **Tables** with top movies and their details  
 
-Most Popular Genre: Y
+🌈 **Features**  
+- Filter movies by **genre, year, or rating**  
+- Interactive visuals for exploring trends  
+- **Color-coded charts** for quick insights  
 
-Highest Rated Movie: Z
-
-📊 Key Visuals
-
-Bar charts showing movies by genre
-
-Line charts tracking movie ratings over time
-
-Tables with top movies and their details
-
-🌈 Features
-
-Filter movies by genre, year, or rating
-
-Interactive visuals for exploring trends
-
-Color-coded charts for quick insights
+🖼️ **Preview Images**  
+![Dashboard Overview](assets/page_1_)
