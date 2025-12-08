@@ -8,19 +8,15 @@ This Power BI dashboard provides clear insights into Netflix’s 2023 catalog, i
 
 
 
----
-
-## 📂 Folder Structure
-
 Netflix-Analytics/
 │
-├── 📸 assets/ # Dashboard screenshots
-├── 📂 data/ # Sample dataset (optional)
-├── 📝 documentation/ # Analysis notes & insights
-├── 📄 README.md # Project overview
-└── 📜 LICENSE # MIT License
+├── 📸 assets/              # Dashboard screenshots
+├── 📂 data/                # Sample dataset (optional)
+├── 📝 documentation/       # Analysis notes & insights
+│
+├── 📄 README.md            # Project overview
+└── 📜 LICENSE              # MIT License
 
----
 
 
 ---
