@@ -1,17 +1,22 @@
-🔹 Page 1 — Movies Overview
+## 🔹 Page 1 — Movies Overview
 
-🎬 Top Insights 
-- Total Movies: X  
-- Most Popular Genre: Y  
-- Highest Rated Movie: Z  
+### 🎬 Top Insights
+- Total Directors: X  
+- Total Titles: Y  
+- Movies: Z  
+- TV Shows: W  
 
-📊 Key Visuals
-- Bar charts showing movies by genre  
-- Line charts tracking movie ratings over time  
-- Tables** with top movies and their details  
+### 📊 Key Visuals
+- Area Chart: Titles by release year  
+- Pie Chart: Movies vs. TV Shows  
+- Stacked Bar Chart: Total titles by rating  
+- Word Cloud: Titles by cast  
 
-🌈 Features 
-- Filter movies by genre, year, or rating 
-- Interactive visuals for exploring trends  
-- Color-coded charts for quick insights  
+### 🌈 Features
+- Explore trends by year, genre, and rating  
+- Quickly compare movies vs. TV shows  
+- Interactive word cloud to see top casts  
+- Color-coded charts and cards for quick insights  
 
+### 🖼️ Preview Images
+![Page 1 Overview](assets/page_1.png)
