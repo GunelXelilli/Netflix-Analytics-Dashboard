@@ -1,18 +1,17 @@
 🔹 Page 2 — Duration & Trends
 
-⏱️ Top Insights  
-- Average Duration: X minutes  
-- Longest Movie: Y minutes  
-- Shortest Movie: Z minutes  
+⏱️ Top Insights
+- Average Duration: X minutes
+- Longest Movie/Show: Y minutes
+- Shortest Movie/Show: Z minutes
 
-📊 Key Visuals  
-- Histograms showing duration distribution  
-- Line charts tracking duration trends over years  
-- Scatter plots comparing duration vs. ratings  
+📊 Key Visuals
+- Table: Count of Titles | Count of Cast | Duration (minutes)
+- Area Chart: Duration trend over years
+- Area Chart: Average duration by type (Movies vs. TV Shows)
 
-🌈 Features 
-- Filter by genre, year, or duration range
-- Easily spot outliers and trends  
-- Color-coded visuals for quick insights 
-
-
+🌈 Features
+- Filter by genre, year, or type
+- Track duration trends over time
+- Compare average duration between Movies and TV Shows
+- Color-coded visuals for quick insights
